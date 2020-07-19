@@ -1,6 +1,6 @@
 {
   "name": "@hdquarters/hexo-deployer",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "index",
   "description": "Hexo deployer S3",
   "scripts": {
