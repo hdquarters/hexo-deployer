@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@hdquarters/node-s3-client@1.0.3":
-  version "1.0.3"
-  resolved "https://npm.pkg.github.com/download/@hdquarters/node-s3-client/1.0.3/8d267cdbcb0857e237cd65110e9e9e568d8fdda2645e7888db161768318d0942#efda871b8df3a90368947a92e64e03e7dff823db"
-  integrity sha512-qdvsLrfycOW3hVq9SpTdO8Quj7J55YCdknIZ+8FzbqRydjkx2q0DqhFHhD07L1+TdkiM3wKwoFpFJYl0jO1CdA==
+"@hdquarters/node-s3-client@1.0.4":
+  version "1.0.4"
+  resolved "https://npm.pkg.github.com/download/@hdquarters/node-s3-client/1.0.4/9a9adbcc24d1b40809b502c253e23705766c467414acb715a1ad9719ac02da26#762767ff85ccc36c9881fe39d74ef5509ecdab48"
+  integrity sha512-UE+SI+0TCPfmYb2rr6b/6WYsmaMn+ldBH8rGQV1k/1nSmTiLA+ILkcvdcm7MOpMyHauUXrgIACvC7oo9Av2CSA==
   dependencies:
     aws-sdk "2.4.9"
     fd-slicer "1.1.0"
