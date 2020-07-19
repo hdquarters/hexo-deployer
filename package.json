@@ -1,6 +1,6 @@
 {
   "name": "@hdquarters/hexo-deployer",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "index",
   "scripts": {
     "release": "./node_modules/.bin/release-it --no-npm.publish --git.tagName='v${version}' --github.release"
